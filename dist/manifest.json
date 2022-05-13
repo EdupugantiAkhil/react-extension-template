@@ -25,7 +25,7 @@
   "version": "1.0.0",
   "manifest_version": 2,
   "description": "decentralized",
-  "browser_action": {
+  "action": {
     "default_icon": "logo512.png",
     "default_popup": "popup.html"
   }
